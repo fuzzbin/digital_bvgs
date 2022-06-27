@@ -1,8 +1,8 @@
 # Velkommen til Digital@BambleVGS
 
-**På denne portalen vil du finne opplæringsmateriell til de viktigste systemene og programmene som brukes av lærere og elever på skolen. Veiledningene vil ta for seg de viktigste funksjonen i de ulike programmene. Det vil også være eksempler på hvordan du kan lære deg gode studieteknikker og arbeidsflyt**
+**På denne portalen vil du finne opplæringsmateriell til de viktigste systemene og programmene som brukes av lærere og elever på skolen. Veiledningene vil ta for seg de viktigste funksjonen i progrmvaren som du har tilgjengelig. Det vil også være informasjon om hvordan du kan lære deg god studieteknikk og arbeidsflyt**
 
-Alle ansatte og elever på skolen har tilgang til en egen PC. Dette er det viktigste arbeidsverktøyet vi har på skolen. Det er derfor viktig at vi har kunnskap om systemene vi har tilgang til slik at vi kan jobbe mer effektivt og smartere i skolehverdagen.
+Alle ansatte og elever på skolen har tilgang til en egen PC. Dette er det viktigste arbeidsverktøyet vi har på skolen. Det er derfor viktig at vi har kan utnytte denne på best mulig måte slik at vi kan jobbe mer effektivt og smartere i skolehverdagen.
 
 :::{figure-md} markdown-fig
 <img src="./media/elev-pc.jpeg" alt="Elev med PC" width="500px">
@@ -10,6 +10,6 @@ Alle ansatte og elever på skolen har tilgang til en egen PC. Dette er det vikti
 Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
 :::
 
-I tillegg til opplæringsmateriell til programvare og de viktigste ressursene vil det også være temasider om studieteknikk, kildebruk og nettvett. Bruk menyen til venstre for å navigere til ønsket innhold.
+I tillegg til opplæringsmateriell til programvare og de viktigste ressursene vil det også være temasider om studieteknikk, kildebruk og nettvett. Bruk menyen for å navigere til ønsket innhold.
 
 Lykke til!
