@@ -9,7 +9,7 @@ Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens:
 :::
 
 
-```{note}
+```{Husk}
 En god studieteknikk er ikke _en_ måte å jobbe på, men en kombinasjon av flere ulike teknikker og verktøy.
 ```
 
