@@ -8,5 +8,8 @@
 Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
 :::
 
-## Disponer tiden du har på skolen godt
-Tiden du har på skolen er verdifull.
+### Noen gode råd
+
+En god studieteknikk er ikke _en_ måte å jobbe på, men en kombinasjon av flere ting.
+
+* Tiden du har på skolen er verdifull. Det er derfor viktig å utnytte den på best mulig måte.
