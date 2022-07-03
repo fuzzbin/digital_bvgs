@@ -9,4 +9,4 @@ Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens:
 :::
 
 ## Disponer tiden du har på skolen godt
-Tiden du har på skolen er verdifull.
+Tiden du har på skolen er verdifull. Det er derfor viktig å utnytte den på best mulig måte.
