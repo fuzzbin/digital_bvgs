@@ -8,10 +8,12 @@
 Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
 :::
 
-### Noen gode råd
 
 ```{note}
 En god studieteknikk er ikke _en_ måte å jobbe på, men en kombinasjon av flere ulike teknikker og verktøy.
 ```
 
 * Tiden du har på skolen er verdifull. Det er derfor viktig å utnytte den på best mulig måte.
+* Møt forberedt til timen og følg med på planer og beskjeder om undervisningen.
+* Jobb med fag i timene og bruk lærern aktivt for å få mest mulig ut av faget.
+
