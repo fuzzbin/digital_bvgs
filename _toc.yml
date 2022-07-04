@@ -21,3 +21,6 @@ parts:
 - caption: Studieteknikk
   chapters:
   - file: docs/studieteknikk/intro_studieteknikk
+  - file: docs/studieteknikk/studieveiledning_realfag
+    sections:
+    - file: docs/studieteknikk/studieveiledning_generell
