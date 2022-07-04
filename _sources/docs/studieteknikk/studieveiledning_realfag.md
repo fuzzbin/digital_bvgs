@@ -1,6 +1,6 @@
 # Studieveiledning for realfag
 
-**Til dere som har valgt å fordype dere i realfag: Gratulerer med valget! Grunnen til at dere valgte realfag kan være forskjellig. Kanskje valgte dere realfag fordi dere får ekstra studiepoeng, at noen dere kjenner tar realfag, eller fordi dere rett og slett er nysgjerrige eller interessert i dette fagområdet.**
+**Til dere som skal å fordype dere i realfag: Gratulerer med valget! Grunnen til at dere valgte realfag kan være forskjellig. Kanskje valgte dere realfag fordi dere får ekstra studiepoeng, at noen dere kjenner tar realfag, eller fordi dere rett og slett er nysgjerrige eller interessert i dette fagområdet.**
 
 Uansett hva grunnen måtte være så står dere nå på terskelen til et meget fasinerende fagområde som kommer til å utfordre dere på mange måter, ikke minst mentalt. Å lese realfag er til tider krevende, og dere kommer garantert til å møte på møte motstand mange ganger de neste årene, men husk at det er verdt alt slitet. Gevinsten er kunnskap og kompetanse om et viktig og fasinerende fagfelt som er viktig for samfunnet, men også kan være med på å gi dere en spennende reise resten av livet.
 
