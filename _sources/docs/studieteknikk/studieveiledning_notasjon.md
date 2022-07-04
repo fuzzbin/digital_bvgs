@@ -15,12 +15,14 @@ Når du skal skrive besvarelser og oppgaver er det som sagt viktig at du følger
 * Oppgi svaret i SI-grunnenheter hvis oppgavene ikke ber om noe annet
 
 ## Symboler og enheter
-I realfag, og spesielt i fysikk er det viktig å skille mellom størrelser og enheter. Formler er alltid skrevet med størrelser, og man setter inn tall med enhet når man skal regne den ut. La oss se på et eksempel på en formel for kinetisk energi for et legeme med masse m og farten v med størrelser:
+I realfag, og spesielt i fysikk er det viktig å skille mellom størrelser og enheter. Formler er alltid skrevet med størrelser, og man setter inn tall med enhet når man skal regne den ut. La oss se på et eksempel på en formel for kinetisk energi for et legeme med masse $m$ og farten $v$ med størrelser:
 
-$$E_k = \frac{1}{2} \cdot m v^2$$
+$$E_k = \frac{1}{2}mv^2$$
 
-Her ser vi størrelsene E,m og v. La oss nå sette inn noen tall med enheter i
-formelen og regne ut Ek for massen m = 1, 0kg og farten v = 22m/s Ek = 21 ·1,0kg·(22m/s)2 = 242J
+Her ser vi størrelsene $E$,$m$ og $v$. La oss nå sette inn noen tall med enheter i
+formelen og regne ut $Ek$ for massen $m = 1,0$kg og farten $v = 22$m/s
+
+$$Ek = 21 ·1,0kg·(22m/s)2 = 242J$$
 6
 
 Her er kg, m/s og J enhetene. Husk at et tall uten benevning kun er et tall. Det er først når vi hekter på enheter at tallene gir mening.
