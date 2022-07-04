@@ -22,10 +22,11 @@ $$E_k = \frac{1}{2}mv^2$$
 Her ser vi størrelsene $E$,$m$ og $v$. La oss nå sette inn noen tall med enheter i
 formelen og regne ut $Ek$ for massen $m = 1,0$kg og farten $v = 22$m/s
 
-$$E_k = 21 \cdot 1,0 \kg·(22 \m / \s)^2 = 242\J$$
+$$E_k = \frac{1}{2} \cdot 1,0 \pu{kg} \cdot (22 \pu{m/s})^2 = 242\pu{J}$$
 6
 
 Her er kg, m/s og J enhetene. Husk at et tall uten benevning kun er et tall. Det er først når vi hekter på enheter at tallene gir mening.
+
 En veldig fin kontrollsjekk er å regne den samme formelen med kun enheter. Hvis du ender opp med riktig enhet så er ofte dette en indikator på at du har regnet riktig.
 2 kg·m2 Ek=kg·(m/s) = s2
 =J
