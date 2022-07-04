@@ -22,7 +22,7 @@ $$E_k = \frac{1}{2}mv^2$$
 Her ser vi størrelsene $E$,$m$ og $v$. La oss nå sette inn noen tall med enheter i
 formelen og regne ut $Ek$ for massen $m = 1,0$kg og farten $v = 22$m/s
 
-$$Ek = 21 ·1,0kg·(22m/s)2 = 242J$$
+$$E_k = 21 \cdot 1,0 \kg·(22 \m / \s)^2 = 242\J$$
 6
 
 Her er kg, m/s og J enhetene. Husk at et tall uten benevning kun er et tall. Det er først når vi hekter på enheter at tallene gir mening.
