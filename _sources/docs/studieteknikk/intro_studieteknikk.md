@@ -1,4 +1,3 @@
-
 # Generelle råd
  **Gode og effektive studieteknikker er viktig å lære seg slik at du kan få mest mulig ut av tiden du er på skolen. Du kan lære mer og spare tid når du bruker gode strategier for læring**
 
@@ -20,6 +19,5 @@ God studieteknikk er ikke _en_ måte å jobbe på, men en kombinasjon av flere u
 * Skaff deg et overblikk over faget og sett deg mål for din egen læring
 
 ```
-
 
 
