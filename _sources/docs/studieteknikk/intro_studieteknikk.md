@@ -17,7 +17,6 @@ God studieteknikk er ikke _en_ måte å jobbe på, men en kombinasjon av flere u
 * Jobb med fag i timene og fokuser på det som skal gjøres
 * Ha orden og ta vare på det du skriver og lager i timene
 * Skaff deg et overblikk over faget og sett deg mål for din egen læring
-
 ```
 
 
