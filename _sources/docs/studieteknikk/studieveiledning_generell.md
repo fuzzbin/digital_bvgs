@@ -1,6 +1,6 @@
 # Studieteknikk i realfag
 
-**Realfag skiller seg fra andre fag på ved at det er mye matematisk notasjon og bruk av ulike hjelpemidler når man jobber med fagene.**
+**Realfag skiller seg fra andre fag ved at det er mye av det man skriver inneholder matematisk notasjon og resultater og utskrifter fra forskjellig digitale hjelpemidler.**
 
 ## Jobb med problemløsing
 Den beste læringen oppnås ved å kombinere lesing av teori og praktisk oppgave- og problemløsning. Det synes å være umulig å lære denne type fag ved kun ved å lese fagtekster elle å lytte til forelesninger. Praktisk problemløsing må til i enda høyere grad enn hva man kanskje er vant med fra tidligere og i andre fag.

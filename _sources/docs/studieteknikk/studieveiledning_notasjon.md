@@ -25,6 +25,17 @@ Når du skal skrive besvarelser og oppgaver er det viktig at du følger noe enkl
 
 **Legg inn eksempel på føring her!**
 
+```{admonition} Eksempel på god føring av en oppgave
+
+**Oppgave**
+En løper bruker tiden 2:55:17 på et maratonløp. Hva er gjennomsnittsfarten?
+
+**Løsning**
+Vi bruker formelen $s=v \cdot t$ og regner ut tiden.
+
+$$v = {s}{t}$$
+```
+
 ## Symboler og enheter
 I realfag, og spesielt i fysikk er det viktig å skille mellom størrelser og enheter. Formler er alltid skrevet med størrelser, og man setter inn tall med enhet når man skal regne den ut. La oss se på et eksempel på en formel for kinetisk energi for et legeme med masse $m$ og farten $v$ med størrelser:
 
