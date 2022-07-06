@@ -11,16 +11,19 @@ Når du skal skrive besvarelser og oppgaver er det viktig at du følger noe enkl
 
  Du vil etterhvert oppdage at god og ryddig føring vil lønne seg.
  
- Under følger en rekker punkter som oppsummerer en godt ført besvarelse:
+ Her er noen punkter og et eksempel på en godt ført oppgave:
 
 * Sett opp all oppgitt informasjon på øverste linje med størrelser og enheter
-* Beskriv alltid hvilke formler du bruker og sett dem opp i grunnopp- stilling
+* Beskriv alltid hvilke formler du bruker og sett dem opp i grunnoppstilling
 * Ta alltid med nok mellomregninger
 * Ta alltid med nok mellomregninger :-)
 * Bruk enheter gjennom hele utregningen
 * To streker skal kun stå under det endelig svaret
 * Bruk prefikser og hold svarene på standardform så langt det er mulig
 * Oppgi svaret i SI-grunnenheter hvis oppgavene ikke ber om noe annet
+
+
+**Legg inn eksempel på føring her!**
 
 ## Symboler og enheter
 I realfag, og spesielt i fysikk er det viktig å skille mellom størrelser og enheter. Formler er alltid skrevet med størrelser, og man setter inn tall med enhet når man skal regne den ut. La oss se på et eksempel på en formel for kinetisk energi for et legeme med masse $m$ og farten $v$ med størrelser:
