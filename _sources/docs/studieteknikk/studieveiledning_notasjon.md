@@ -33,7 +33,7 @@ En løper bruker tiden 2:55:17 på et maratonløp. Hva er gjennomsnittsfarten?
 **Løsning**
 Vi bruker formelen $s=v \cdot t$ og regner ut tiden.
 
-$$v = {s}{t}$$
+$$ v = \frac{s}{t}$$
 ```
 
 ## Symboler og enheter
