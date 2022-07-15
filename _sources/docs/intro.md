@@ -10,6 +10,13 @@ Alle ansatte og elever på skolen har tilgang til en egen PC. Dette er det vikti
 Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
 :::
 
+```{image} ./media/elev-pc.jpeg
+:alt: fishy
+:class: bg-primary mb-1
+:width: 500px
+:align: center
+```
+
 I tillegg til opplæringsmateriell til programvare og de viktigste ressursene vil det også være temasider om studieteknikk, kildebruk og nettvett. Bruk menyen for å navigere til ønsket innhold.
 
 Lykke til!
