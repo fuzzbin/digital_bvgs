@@ -4,18 +4,13 @@
 
 Alle ansatte og elever på skolen har tilgang til en egen PC. Dette er det viktigste arbeidsverktøyet vi har på skolen. Det er derfor viktig at vi har kan utnytte denne på best mulig måte slik at vi kan jobbe mer effektivt og smartere i skolehverdagen.
 
-:::{figure-md} markdown-fig
-<img src="./media/elev-pc.jpeg" alt="Elev med PC" width="500px">
-
-Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
-:::
-
 ```{image} ./media/elev-pc.jpeg
 :alt: fishy
 :class: bg-primary mb-1
 :width: 500px
 :align: center
 ```
+Datamaskinen er et fantastisk verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
 
 I tillegg til opplæringsmateriell til programvare og de viktigste ressursene vil det også være temasider om studieteknikk, kildebruk og nettvett. Bruk menyen for å navigere til ønsket innhold.
 
