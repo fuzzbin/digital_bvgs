@@ -10,7 +10,7 @@ Alle ansatte og elever på skolen har tilgang til en egen PC. Dette er det vikti
 :width: 500px
 :align: center
 ```
-Datamaskinen er et veldig nyttig verktøy i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
+Datamaskinen og kjennskap til gode studieteknikker er et veldig nyttig i skolehverdagen. (Foto: Unsplash Lisens: Unspalsh)
 
 I tillegg til opplæringsmateriell til programvare og de viktigste ressursene vil det også være temasider om studieteknikk, kildebruk og nettvett. Bruk menyen for å navigere til ønsket innhold.
 
