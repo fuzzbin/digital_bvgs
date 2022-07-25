@@ -1,17 +1,17 @@
 # Velkommen til Digital@BambleVGS
 
-**På denne portalen finnes det opplæringsmateriell og veiledninger til de viktigste systemene og programmene som brukes på skolen. Veiledningene vil ta for seg de viktigste funksjonene i programvaren du har tilgjengelig på maskinen og informasjon om hvordan du kan lære deg god studieteknikk og arbeidsflyt**
+**På denne portalen finnes det opplæringsmateriell og veiledninger til de viktigste systemene og programmene som brukes på skolen. Veiledningene vil ta for hvordan du på best mulig måte kan utnytte de verktøyene du har tilgjengelig på skolen. Det vil også være gode råd og og informasjon om hvordan du kan lære deg gode studieteknikker og arbeidsflyt**
 
 Alle ansatte og elever på skolen har tilgang til en egen PC. Dette er det viktigste arbeidsverktøyet vi har på skolen. Det er derfor viktig at vi har kan utnytte denne på best mulig måte slik at vi kan jobbe mer effektivt og smartere i skolehverdagen.
 
 ```{image} ./media/elev-pc.jpeg
-:alt: fishy
+:alt: Bilde av mennesker som bruker en datamaskin
 :class: bg-primary mb-1
 :width: 500px
 :align: center
 ```
 Kjennskap til gode studieteknikker og god bruk av digitale verktøy er et veldig nyttig i skolehverdagen. (Foto/Lisens: Unsplash)
 
-I tillegg til opplæringsmateriell til programvare og de viktigste ressursene vil det også være temasider om studieteknikk, kildebruk og nettvett. Bruk menyen for å navigere til ønsket innhold.
+I tillegg til veiledninger til programvare og utstyr vil det også være temasider om studieteknikk, kildebruk og nettvett. Portalen er ment for å brukes av ansatte og elever i den videregående skolen i Vestfold og Telemark. Bruk menyen for å navigere til ønsket innhold.
 
 Lykke til!
